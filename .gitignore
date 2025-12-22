@@ -1,0 +1,12 @@
+#eu não sei usar o gitignore, mas segundo a IA, é assim que eu ignoro esse arquivo no meu repositório:
+__builtins__.py
+#ele é tipo as declarações das funções e variáveis internas do jogo, ela n precisa estar no repositório
+
+#provável save, ele tá vazio na realidade
+Save0.json 
+
+#esse é o save do meu jogo, tem a quantidade dos itens que tenho e tals
+save.json
+
+#arquivo de workspace do vscode, não sei como usa, mas achei bom criar ele
+Saves.code-workspace
