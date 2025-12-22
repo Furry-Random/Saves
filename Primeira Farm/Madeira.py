@@ -1,5 +1,4 @@
-#função feita apenas para farmar madeira
-#lá ele
+#função feita apenas para farmar madeira, lá ele
 
 def madeira():
 	tamanhoFazenda = get_world_size()
