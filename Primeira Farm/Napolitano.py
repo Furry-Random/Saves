@@ -1,5 +1,4 @@
-#o Napolitano só funciona se o get_world_size() for
-#divisível por 3, já que são 3 tipos de plantas
+#o Napolitano só funciona se o get_world_size() for divisível por 3, já que são 3 tipos de plantas
 
 def napolitano():
 	tamanhoFazenda = get_world_size()
