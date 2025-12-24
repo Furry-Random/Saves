@@ -22,15 +22,15 @@ E *novamente*, os aquivos desse repositório são os que eu desenvolvi (e estou 
 
 ## Licença :police_officer:
 
-Eu deixei como "None", pois essa é a minha primeira vez usando o GitHub, então eu não sei configurar e mexer nas coisas aqui (e não conheço as licenças e etc), mas não se preocupe com isso, você pode olhar, copiar e compartilhar o repositório, e fazer a sua prórpia versão, por exemplo, copiar o meu código, colar no seu jogo e modifica-lo.
+Eu deixei como "None", pois essa é a minha primeira vez usando o GitHub, então eu não sei configurar e mexer nas coisas aqui (e não conheço as licenças e etc), mas não se preocupe com isso, você pode olhar, copiar e compartilhar o repositório, e fazer a sua própria versão, por exemplo, copiar o meu código, colar no seu jogo e modifica-lo.
 
-Eu não sei se tem como qualquer pessoa modificar o meu código e inserir ele no meu repositório, se sim (e caso você faça), você pode modificar sem problemas, é que eu gostaria de fazer sozinho, pra me forçar a pensar e desenvolver a minha solução, mas sinceramente, é importante também ver a solução das outras pessoas, então, sinta-se a vontade para modificar o código :+1:.
+Eu não sei se tem como qualquer pessoa modificar o meu código e inserir ele no meu repositório, se sim (e caso você faça), você pode modificar sem problemas, é que eu gostaria de fazer sozinho, para me forçar a pensar e desenvolver a minha solução, mas sinceramente, é importante também ver a solução das outras pessoas, então, sinta-se a vontade para modificar o código :+1:.
 
 ## Para finalizar :file_folder:
 
 Estou deixando meus códigos públicos porquê eu quero aprender como o GitHub funciona (pelo menos o básico) e porquê talvez me código ajude alguém, ou a resolver um problema no jogo ou a se interessar pelo jogo ou pela programação, enfim, acho que é isso :cat:.
 
-**FR!**
+_FR!_
 
 
 
