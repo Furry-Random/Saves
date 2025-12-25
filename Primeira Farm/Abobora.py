@@ -1,8 +1,5 @@
 #Código exclusivo para plantar e colher abóboras
 
-#TODO: Ele não está percorrendo de forma correta
-#TODO: Ele não colhe, mesmo quando cont = 36 (tamanho da minha fazenda)
-
 #cria a função da abóbora
 def abobora():
 
