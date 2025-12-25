@@ -1,5 +1,7 @@
 #o Napolitano só funciona se o get_world_size() for divisível por 3, já que são 3 tipos de plantas
 
+#TODO: a minha fazenda atualmente é divisível por 4, então plante 4 tipos em 4 faixas
+
 def napolitano():
 	tamanhoFazenda = get_world_size()
 		

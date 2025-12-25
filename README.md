@@ -31,6 +31,3 @@ Eu não sei se tem como qualquer pessoa modificar o meu código e inserir ele no
 Estou deixando meus códigos públicos porquê eu quero aprender como o GitHub funciona (pelo menos o básico) e porquê talvez me código ajude alguém, ou a resolver um problema no jogo ou a se interessar pelo jogo ou pela programação, enfim, acho que é isso :cat:.
 
 _FR!_
-
-
-

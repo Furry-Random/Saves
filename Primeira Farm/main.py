@@ -1,12 +1,11 @@
 #Importa os arquivos de código
-import Reset
 import Madeira
 import one_Type
 import Napolitano
 import Abobora
 
 #reseta a fazenda
-Reset.clear()
+clear()
 
 #muda a cor do chapéu para cinza (porquê é legal)
 change_hat(Hats.Gray_Hat)
