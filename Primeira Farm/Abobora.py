@@ -47,3 +47,4 @@ def abobora():
 	#colha se todas as posições tiverem abóboras boas
 	if cont == (get_world_size() ** 2): #dois "**" é -> get_world_size()^2 (ao quadrado)
 		harvest()
+		
